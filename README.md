@@ -16,8 +16,6 @@ Para la realización de esta competición, se ha analizado los datos de train y 
 
 # Estructura
 
-Las estructura es la siguiente:
-
 ## Data
 
 Dividido en Processed y Raw, en Processed se han guardado los .csv con las predicciones.
