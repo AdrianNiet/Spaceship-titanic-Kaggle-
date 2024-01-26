@@ -28,6 +28,8 @@ Aqui se guardara el modelo con mejores resultados, actualmente es un RandomTreeC
 
 Los notebooks utilizados durante la competición.
 
+Destacando el archivo [Models](https://github.com/AdrianNiet/Spaceship-titanic-Kaggle-/blob/main/notebook/models.ipynb) para la prueba de varios modelos + guardado del primer intento.
+
 
 
 ### Muchas gracias.
