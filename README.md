@@ -8,7 +8,7 @@ Para la realización de esta competición, se ha analizado los datos de train y 
 
 - Tratamiento de NaN por columna
 - Visualización de las correlaciones mediante mapa de calor.
-- Procesado de los datos (Guardados como nuevo csv procesado)
+- Procesado de los datos.
 - Creacion y testeo de varios modelos de machine learning.
 - Creacion del modelo con mejores resultados.
 - Realización de predicciones.
