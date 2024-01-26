@@ -28,8 +28,8 @@ Aqui se guardara el modelo con mejores resultados, actualmente es un RandomTreeC
 
 Los notebooks utilizados durante la competición.
 
-Destacando el archivo [Models](https://github.com/AdrianNiet/Spaceship-titanic-Kaggle-/blob/main/notebook/models.ipynb) para la prueba de varios modelos + guardado del primer intento.
+Primero he realizado un tratamiento de los datos en [Procesing_df](https://github.com/AdrianNiet/Spaceship-titanic-Kaggle-/blob/main/notebook/processing_df.ipynb), una vez limpiados y procesados he creado el archivo [Models](https://github.com/AdrianNiet/Spaceship-titanic-Kaggle-/blob/main/notebook/models.ipynb) para la prueba de varios modelos + guardado del primer intento.
 
+Con un modelo ya creado, probado y guardado, se ha procedido a crear el archivo [Redes_con_keras](https://github.com/AdrianNiet/Spaceship-titanic-Kaggle-/blob/main/notebook/Redes_con_Keras.ipynb) para realizar un intento con redes neuronales, esta pendiente de repaso ya que su precision segun el intento de kaggle es del 78,4%.
 
-
-### Muchas gracias.
+### Fin del read-me.
